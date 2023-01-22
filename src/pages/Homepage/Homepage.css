@@ -1,0 +1,6 @@
+.homepage_container {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 7%;
+    margin-top: 20px;
+}

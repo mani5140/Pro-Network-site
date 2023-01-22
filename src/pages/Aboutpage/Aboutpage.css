@@ -1,0 +1,11 @@
+.about{
+    padding: 2% 10%;
+}
+.about>p{
+    padding-top: 2%;
+    font-size: larger;
+}
+.about>button{
+    margin-top: 4%;
+    padding: 10px 20px;
+}
